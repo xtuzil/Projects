@@ -1,0 +1,10 @@
+C:\Users\Mates\Desktop\BasketballTournamentManager\BasketballTournamentManager\bin\Debug\BasketballTournamentManager.exe.config
+C:\Users\Mates\Desktop\BasketballTournamentManager\BasketballTournamentManager\bin\Debug\BasketballTournamentManager.exe
+C:\Users\Mates\Desktop\BasketballTournamentManager\BasketballTournamentManager\bin\Debug\BasketballTournamentManager.pdb
+C:\Users\Mates\Desktop\BasketballTournamentManager\BasketballTournamentManager\obj\Debug\BasketballTournamentManager.csprojAssemblyReference.cache
+C:\Users\Mates\Desktop\BasketballTournamentManager\BasketballTournamentManager\obj\Debug\BasketballTournamentManager.csproj.CoreCompileInputs.cache
+C:\Users\Mates\Desktop\BasketballTournamentManager\BasketballTournamentManager\obj\Debug\BasketballTournamentManager.exe
+C:\Users\Mates\Desktop\BasketballTournamentManager\BasketballTournamentManager\obj\Debug\BasketballTournamentManager.pdb
+C:\Users\Mates\Desktop\BasketballTournamentManager\BasketballTournamentManager\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mates\Desktop\BasketballTournamentManager\BasketballTournamentManager\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mates\Desktop\BasketballTournamentManager\BasketballTournamentManager\obj\Debug\BasketballTournamentManager.csproj.CopyComplete

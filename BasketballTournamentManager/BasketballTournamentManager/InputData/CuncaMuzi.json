@@ -1,0 +1,142 @@
+﻿[
+  {
+    "Name": "Cuncanizatori",
+    "Players": [
+      {
+        "Name": "Matej Tuzil",
+        "Age": 21,
+        "Sex": "Male",
+        "Weight": 80,
+        "Height": 188,
+        "Team": "Cuncanizatori"
+      },
+      {
+        "Name": "Adam Grunwald",
+        "Age": 20,
+        "Sex": "Male",
+        "Weight": 85,
+        "Height": 190,
+        "Team": "Cuncanizatori"
+      },
+      {
+        "Name": "Simon Navratil",
+        "Age": 22,
+        "Sex": "Male",
+        "Weight": 80,
+        "Height": 195,
+        "Team": "Cuncanizatori"
+      }
+    ]
+  },
+  {
+    "Name": "DSK",
+    "Players": [
+      {
+        "Name": "Vojta Marek",
+        "Age": 21,
+        "Sex": "Male",
+        "Weight": 80,
+        "Height": 188,
+        "Team": "DSK"
+      },
+      {
+        "Name": "Matej Musil",
+        "Age": 20,
+        "Sex": "Male",
+        "Weight": 85,
+        "Height": 190,
+        "Team": "DSK"
+      },
+      {
+        "Name": "Jan Strasak",
+        "Age": 22,
+        "Sex": "Male",
+        "Weight": 80,
+        "Height": 195,
+        "Team": "DSK"
+      }
+
+    ]
+  },
+  {
+    "Name": "1",
+    "Players": [
+      {
+        "Name": "V",
+        "Age": 21,
+        "Sex": "Male",
+        "Weight": 80,
+        "Height": 188,
+        "Team": "1"
+      }
+    ]
+  },
+  {
+    "Name": "2",
+    "Players": [
+      {
+        "Name": "Vo",
+        "Age": 21,
+        "Sex": "Male",
+        "Weight": 80,
+        "Height": 188,
+        "Team": "2"
+      }
+
+    ]
+  },
+  {
+    "Name": "3",
+    "Players": [
+      {
+        "Name": "Voj",
+        "Age": 21,
+        "Sex": "Male",
+        "Weight": 80,
+        "Height": 188,
+        "Team": "3"
+      }
+    ]
+  },
+  {
+    "Name": "4",
+    "Players": [
+      {
+        "Name": "Vojt",
+        "Age": 21,
+        "Sex": "Male",
+        "Weight": 80,
+        "Height": 188,
+        "Team": "4"
+      }
+    ]
+  },
+  {
+    "Name": "5",
+    "Players": [
+      {
+        "Name": "Vojta",
+        "Age": 21,
+        "Sex": "Male",
+        "Weight": 80,
+        "Height": 188,
+        "Team": "5"
+      }
+    ]
+  },
+  {
+    "Name": "6",
+    "Players": [
+      {
+        "Name": "Vojta Mar",
+        "Age": 21,
+        "Sex": "Male",
+        "Weight": 80,
+        "Height": 188,
+        "Team": "6"
+      }
+
+    ]
+  }
+
+]
